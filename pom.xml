@@ -44,6 +44,11 @@
    </snapshotRepository>
 </distributionManagement>
 -->
+<server>   
+    <id>nexus</id>   
+    <username>admin</username>   
+    <password>admin123</password>      
+</server> 
 <distributionManagement>
   <repository>
     <id>releases</id>
